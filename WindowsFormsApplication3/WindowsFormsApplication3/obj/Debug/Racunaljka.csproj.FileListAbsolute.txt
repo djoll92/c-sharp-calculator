@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ClassLibrary1.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ClassLibrary1.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Racunaljka.Racunaljka.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Racunaljka.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Računaljka.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Računaljka.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Računaljka.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Računaljka.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Računaljka.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Računaljka.pdb
